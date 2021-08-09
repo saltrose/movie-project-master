@@ -1,0 +1,87 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.signin--vertical {
+  background-image: url(../../assets/icons/bg2.jpeg);
+  background-position: center;
+  background-size: contain;
+  height: 100vh;
+  width: 100vw;
+}
+
+.signin--wrapper {
+  max-width: 360px;
+  padding: 40px 32px 30px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-image: linear-gradient(
+    to bottom,
+    rgba(20, 50, 93, 0.9),
+    rgba(8, 22, 48, 0.9)
+  );
+  box-shadow: 0 0 10px 0 rgb(0 0 0 / 45%);
+  border-radius: 6px;
+  text-align: center;
+  color: #fff;
+}
+
+.signin--wrapper .signin--header {
+  width: 209px;
+  margin-bottom: 96px;
+  cursor: pointer;
+}
+.signin--message p {
+  color: #fff;
+  text-align: center;
+  font-size: 14px;
+  padding: 10px;
+}
+.signin-button {
+  width: 100%;
+  cursor: pointer;
+}
+.signin-logo {
+  width: 100%;
+  cursor: pointer;
+}
+.gg-signin,
+.zl-signin,
+.fb-signin {
+  padding: 10px 20px;
+}
+.signin-close {
+  position: relative;
+  opacity: 1;
+  position: absolute;
+  top: -18px;
+  right: -18px;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background-color: #081630;
+  content: "\00d7";
+  cursor: pointer;
+}
+.signin-close:before,
+.signin-close:after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 5px;
+  height: 20px;
+  background-color: #696969;
+  transform: rotate(45deg) translate(-50%, -50%);
+  transform-origin: top left;
+  width: 2px;
+  content: "";
+}
+.signin-close:after {
+  transform: rotate(-45deg) translate(-50%, -50%);
+  width: 2px;
+}

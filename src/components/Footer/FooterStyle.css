@@ -1,0 +1,208 @@
+#footer {
+  background-color: #222;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #949494;
+}
+
+#homeApp p {
+  text-align: center;
+  color: #fff;
+  margin: 15px;
+}
+.buttonLeft {
+  display: block;
+  margin: auto;
+}
+.block {
+  padding-left: 0;
+  padding-right: 0;
+}
+#homeApp {
+  padding: 120px 0 80px 0;
+  background: url(../../assets/icons/backapp.jpeg);
+  background-size: contain;
+}
+.tagA {
+  color: #fff;
+}
+
+.mainMaxWidth {
+  max-width: 940px;
+  float: none;
+  margin: auto;
+  clear: both;
+}
+.fontSizeP a {
+  display: inline-block;
+  margin: 5px;
+  text-decoration: none;
+}
+.noPaddingLeft {
+  padding: 0;
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+.imgFooter {
+  text-align: center;
+  padding: 0;
+}
+footer .infoFooter {
+  color: #fff;
+  white-space: nowrap;
+  font-size: 70%;
+}
+.title {
+  color: #fff;
+  font-size: 80%;
+}
+#footer .iconApp {
+  background: 0 0;
+  height: 30px;
+  width: auto;
+  margin: 5px;
+}
+.imgFooter {
+  text-align: center;
+  padding: 0;
+}
+.iconApp {
+  background: 0 0;
+  height: 30px;
+  width: auto;
+  margin: 5px;
+}
+
+.buttonLeft {
+  background-color: #fb4226;
+  padding: 10px 20px;
+  color: #fff;
+  font-size: medium;
+  font-weight: 700;
+  border: none;
+  border-radius: 4px;
+  z-index: 100;
+}
+.textLeft {
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.8em;
+}
+.textSmallLeft {
+  color: #fff;
+  font-size: medium;
+}
+.textAppUnder {
+  color: #fff;
+  padding-top: 10px;
+}
+#footer .title {
+  color: #fff;
+  font-size: 80%;
+}
+.textLeft {
+  font-size: 1.8em;
+}
+.fontSizeP a {
+  font-size: 12px !important;
+  font-size: 80%;
+  font-weight: 700;
+  white-space: nowrap;
+  color: #949494;
+  display: block;
+  transition: all 0.2s;
+  line-height: 2.3;
+  text-align: left;
+}
+.fontSizeP a:hover {
+  color: #fff;
+  transition: all 0.2s;
+}
+
+.linePartner {
+  margin-bottom: 15px;
+  padding-left: 0;
+  padding-right: 0;
+}
+a {
+  text-decoration: none;
+  color: #000;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.iconConnect {
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  margin-right: 15px;
+}
+.imgBoCo {
+  width: 130px;
+  float: left;
+}
+.vngIcon {
+  width: 80px;
+  height: auto;
+}
+#footer .infoFooter span {
+  display: block;
+  line-height: 1.8;
+  color: #949494;
+  font-size: 12px;
+  font-weight: 400;
+}
+.col-sm-9 {
+  flex: 0 0 auto;
+  width: 75%;
+}
+.block {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.col-xs-12 {
+  width: 100%;
+  height: 100%;
+}
+.iconApp {
+  background: 0 0;
+  height: 30px;
+  width: auto;
+  margin: 5px;
+}
+#footer .textCenter {
+  text-align: center;
+}
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
+.block {
+  padding-left: 0;
+  padding-right: 0;
+}
+.col-xs-12 {
+  width: 100%;
+  height: auto !important;
+}
+.phone-img {
+  width: 60%;
+  padding: 0 50%;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  position: absolute;
+}
+
+.mobile-slide {
+  position: relative;
+  padding: 1.5% 29.3% 0 29.3%;
+  top: 0;
+  left: 0;
+  width: 100%;
+  transition: (0.6s ease-in-out left);
+}
+.slide-border {
+  border-radius: 20px;
+}
